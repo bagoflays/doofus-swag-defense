@@ -10,5 +10,6 @@ You need these modules:
 
 You need pip to install it, you should have it in Python. If you don't, install Python.
 
-The game should be called "DoofusSwagDefense.py"
+The game should be called "DoofusSwagDefense.py".
+
 To compile, go to cmd, type "cd [GAME DIRECTORY]" and type "pyinstaller --windowed --icon=icon.png --onefile [.PY FILE, IT NEEDS THE .PY]"
