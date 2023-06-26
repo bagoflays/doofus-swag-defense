@@ -1,0 +1,9 @@
+{
+  "WindowName": "Doofus Swag Defense",
+  "PlayButtonImage": "play_button",
+  "FloorImage": "ground",
+  "playerSpeed": 1,
+  "enemySpeed": 0.7,
+  "playerCharacter": "medieval",
+  "enemyCharacter": "evilest-dude"
+}
