@@ -5,5 +5,7 @@
   "playerSpeed": 1,
   "enemySpeed": 0.7,
   "playerCharacter": "medieval",
-  "enemyCharacter": "evilest-dude"
+  "enemyCharacter": "evilest-dude",
+  "version": "0.0.2",
+  "ExitButtonImage": "exit_button"
 }
